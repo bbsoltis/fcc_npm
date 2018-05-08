@@ -17,6 +17,6 @@
   "homepage": "https://github.com/bbsoltis/fcc_npm#readme",
   "description": "",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   }
 }
