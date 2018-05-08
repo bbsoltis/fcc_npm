@@ -1,0 +1,22 @@
+{
+  "name": "@brian/project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbsoltis/fcc_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbsoltis/fcc_npm/issues"
+  },
+  "homepage": "https://github.com/bbsoltis/fcc_npm#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
